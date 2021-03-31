@@ -5,7 +5,7 @@
     "require": {
         "ext-json": "*"
     },
-    "license": "MIT License",
+    "license": "MIT",
     "authors": [
         {
             "name": "basteyy",
